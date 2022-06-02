@@ -1,0 +1,7 @@
+{
+  "name": "luck-battle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
